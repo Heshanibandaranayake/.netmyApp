@@ -1,0 +1,16 @@
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.exe
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.deps.json
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.dll
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\ref\myApp.dll
+D:\Practicing\.net\firstApp\myApp\bin\Debug\net5.0\myApp.pdb
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.csprojAssemblyReference.cache
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.dll
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\ref\myApp.dll
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.pdb
+D:\Practicing\.net\firstApp\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
